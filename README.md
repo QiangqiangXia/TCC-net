@@ -27,6 +27,6 @@ Here is an example:
 python main.py --dataset cifar10 --noise_type symmetric --percent 0.2
 ```
 
-# References
+# Reference
 
 [1]: Thank for [Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels](https://github.com/bhanML/Co-teaching).
